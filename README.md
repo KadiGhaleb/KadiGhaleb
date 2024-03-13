@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Kadi Ghaleb
+# **Hi there!** 👋 I'm Kadi Ghaleb
 
 Welcome to my GitHub profile! I'm currently a senior Computer Science student with a passion for exploring the vast landscape of technology. While I find all fields within Computer Science fascinating, I've recently been drawn to the captivating realms of Artificial Intelligence, specifically Machine Learning, Deep Learning, and Data Science.
 
